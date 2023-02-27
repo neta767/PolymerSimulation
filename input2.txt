@@ -1,0 +1,7 @@
+PolymerLengths = [100, 200, 300]
+MonomerLength = 10
+EdgeDiameter = 1
+Dim = 2
+AngleInterval = 10
+MeanErr = 0.0001
+MaxTries = 10000
